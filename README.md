@@ -44,10 +44,40 @@ One to One
 One to Many
 Many to Many
 
+
+## Installation
+
+- Use the following command on each microservice and the client to install the dependencies
+
+```
+npm install 
+```
+ 
+## Usage
+
+- Use the following command on each microservice to run the server
+
+  ```
+  nodemon server
+  ```
+
+- Run the following command on client to start angular server 
+
+  ```
+  ng serve
+  ```
   
 # Built using 
 
 [Visual studio code](https://code.visualstudio.com/)
 Visual Studio Code, also commonly referred to as VS Code, is a source-code editor made by Microsoft for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git.
+
+# On Demand Car Wash
+This application provides car washes to customers at the given location and time, by the registered washers on the application. The customer will send wash 
+requests to washers, which will then, be accepted or rejected by the washer.
+The application is built using **MEAN stack** and follows a 
+**Microservice** architecture. There are three microservices **Admin, Washer and Customer**.
+
+
 
 
