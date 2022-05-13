@@ -1,6 +1,5 @@
-# car-wash website
-
 # Car Spa Website
+
 Everyone loves a shiny, immaculate, beautiful ride that stands out on the highway. Car Spa’s mission is to provide five-star car wash and vehicle maintenance that will leave you smiling down the road. 
 
 This application provides the service of car wash to its customers at a given location and time. This facility of car wash is provided by the registered washers on the application. These registered washers are the different branches of our company at different locations. The customer will send wash requests to washers, which will then, be accepted or rejected by the washer. 
@@ -14,6 +13,7 @@ Our website is a one-stop solution to get clean, hassle-free, professional and m
 The application is built using MEAN stack and has 3 microservices. These microservices are: Admin, Washer and Customer
 
 # MEAN Stack
+
 The MEAN stack is JavaScript-based framework for developing web applications. MEAN is named after MongoDB, Express, Angular, and Node, the four key technologies that make up the layers of the stack.
 
 MongoDB - document database
@@ -39,12 +39,14 @@ All of the MEAN stack components are open source in nature and therefore allow a
 
 
 # Cardinalities Displayed in our Webiste
+
 One to One
 One to Many
 Many to Many
 
   
 # Built using 
+
 [Visual studio code](https://code.visualstudio.com/)
 Visual Studio Code, also commonly referred to as VS Code, is a source-code editor made by Microsoft for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git.
 
