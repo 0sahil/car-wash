@@ -1,0 +1,4 @@
+client/node_modules
+server/Admin/node_modules
+server/Customer/node_modules
+server/Washer/node_modules
